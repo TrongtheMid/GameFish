@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1744098580 source:d:\codeblock\gamefinal\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<vector>
+	"renderwindow.h"
+	"graphic.h"
+	<string>
+	<cmath>
+
+1744082624 d:\codeblock\gamefinal\renderwindow.h
+	<SDL.h>
+	<SDL_image.h>
+
+1743581376 d:\codeblock\gamefinal\entity.h
+
+1744084171 source:d:\codeblock\gamefinal\renderwindow.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Renderwindow.h"
+	<iostream>
+	<vector>
+	"graphic.h"
+	<string>
+
+1744098991 source:d:\codeblock\gamefinal\entity.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"Renderwindow.h"
+	<vector>
+	<iostream>
+	<SDL_mixer.h>
+
+1743959609 d:\codeblock\gamefinal\graphic.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"renderwindow.h"
+
